@@ -67,4 +67,3 @@ for x in range(1, 21):
     if sum == 0 :
         print('余额不足下个月再来')
         break
-
