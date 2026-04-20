@@ -6,3 +6,4 @@ shift+f6：重命名文件
 ctrl+a：全选
 ctrl+c/v/x：复制/粘贴/剪切
 ctrl+f：搜索
+ctrl+z: 撤销操作
