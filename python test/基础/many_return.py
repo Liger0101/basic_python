@@ -52,7 +52,7 @@ user_info4(name = 'Tonny', age = 21, gender = 'M')
 # 1.函数作为参数传递
 # eg
 def test(compute):#要求传入代码的执行逻辑
-    result = compute(1,2) #利用函数作为参数，可以使之使用不同的函数
+    result = compute(1,2) #利用函数作为参数，可以使之使用不同的函数，常用于参数已知，参需要改变执行逻辑
     print(result)
 def add(x, y):
     return x + y
