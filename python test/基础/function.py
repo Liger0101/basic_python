@@ -176,6 +176,7 @@ def menu():
     return input('请选择您的操作：')
 
 while True:
+
     input_num = menu()
     if input_num == '1':
         query(True)
